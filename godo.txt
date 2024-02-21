@@ -21,3 +21,23 @@ so the static is what is given a preference while running the code by jvm , the 
 the local variable is the variable that is defined in a method and it doesn't have the judisdiction to have the same value in the
 different area
 
+there are no global variables in java
+
+local variables cannot be static in java
+
+ there can only be one object for static variables
+
+
+ instance , static , local variable
+ |            |           |
+ |            |           |
+ v            v           v
+ class,     direct
+ direct
+
+
+ incedence and precedence
+
+ also learnt that to equal strings we need to use string.equals() and other than that there cannot be multiple main methods
+ that can run at the same time.
+
