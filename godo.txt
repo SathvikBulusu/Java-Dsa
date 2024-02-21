@@ -1,0 +1,23 @@
+there are four ways to access variables
+
+when there is static variables we use this way to access variables
+
+1. through class name
+2. using directly
+
+** when there is no static then use this **
+3. through objects
+4. through object references
+
+There are types of storages that i need to know inorder to learn the java
+  -- > 1. Method Area
+       2. Stack Area
+       3. Heap Area
+       4. pc registers
+       5. Native Stack
+
+so the static is what is given a preference while running the code by jvm , the difference between
+
+the local variable is the variable that is defined in a method and it doesn't have the judisdiction to have the same value in the
+different area
+
