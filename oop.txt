@@ -1,0 +1,31 @@
+oop means object oriented progamming and it is used to create objects that contain both data and methods
+
+oop is faster and easy to execute
+oop provides a clear structure for the programs
+oop uses Dry principle (DONT repeat Yourself)
+
+
+there are 4 principles
+
+1. inheritance :- so it can be used to create classes from an existing classes
+
+2. polymorphism :- the ability to write the progams in many different type sis called polymorhpism
+
+
+it has compile time poly morphism :- method overloading and method overriding this is while compiling
+
+
+method overloading -- same method name diff parameters
+
+---> run time polymorphism :- binding of method call statement with method definition done at runtime
+
+          same name and same method parameters
+ and method overriding cannot be done in same class but can be performmed in different classes
+
+----> super keyword :- parent class stuff being showcased and it is present as a first statement in every construct as default
+
+------------------------------------------------------------------------------------------------
+
+3. Encapsulation
+4. Abstraction
+
